@@ -1,6 +1,6 @@
 import { Button, View } from 'react-native';
 
-const TIMER_OPTIONS = [0.1, 25, 35, 45];
+const TIMER_OPTIONS = [25, 35, 45];
 
 export const TimerOptions = ({ setFocusTime }) => {
 	return (
