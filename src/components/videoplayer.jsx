@@ -1,7 +1,6 @@
 import React from 'react';
 import Video from 'react-native-video'
 import { StyleSheet, View } from 'react-native';
-import video from '../assets/videos/test_video.mp4';
 
 const styles = StyleSheet.create({
   container: {
